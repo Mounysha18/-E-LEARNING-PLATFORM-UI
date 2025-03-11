@@ -1,16 +1,16 @@
  E-LEARNING PLATFORM UI
  
- company:codtech-it solution
+ Company:codtech-it solution
  
- name:Mounysha S
+ Name:Mounysha S
  
- intern id:CT08UKC
+ Intern id:CT08UKC
  
- domain:front-end development
+ Domain:front-end development
  
- duration:4 weeks
+ Duration:4 weeks
  
- mentor:neela santosh
+ Mentor:neela santosh
  
 
 # E-Learning Website using HTML5, CSS3, Bootstrap5 and JavaScript 
